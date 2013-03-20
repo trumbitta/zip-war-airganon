@@ -5,6 +5,10 @@ Una dimostrazione del noto algoritmo di out e crowd sourcing in modo che si poss
 
 Online: http://trumbitta.github.com/zip-war-airganon/
 
+## Contributi di Terze Parti
+
+@simoneloru ha inglobato il sito in [un'app per Android](https://play.google.com/store/apps/details?id=com.simoneloru.zwa_zipwarairganon)!
+
 ## Credits ##
 
 * http://www.francescolanza.net/grillo-e-il-software-misterioso-antani
