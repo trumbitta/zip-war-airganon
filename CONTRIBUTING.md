@@ -1,3 +1,5 @@
+**ATTENZIONE: [novità in arrivo](https://github.com/trumbitta/zip-war-airganon/issues/1)**
+
 # Come contribuire #
 
 1. forka il repository
