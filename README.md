@@ -3,13 +3,12 @@ zip-war-airganon
 
 Una dimostrazione del noto algoritmo di out e crowd sourcing in modo che si possano intensificare e intersecare tutti i dati mondiali delle banche e delle dichiarazioni fiscali.
 
-Online: http://trumbitta.github.com/zip-war-airganon/
+Provalo online: http://trumbitta.github.com/zip-war-airganon/
 
-## Contributi di Terze Parti
+## Contributi
 
-**ATTENZIONE: [novità in arrivo](https://github.com/trumbitta/zip-war-airganon/issues/1)**
-
-Il prode [@simoneloru](https://github.com/simoneloru) ha inglobato il sito in [un'app per Android](https://play.google.com/store/apps/details?id=com.simoneloru.zwa_zipwarairganon)!
+Contribuire è facile, [leggi come fare](https://github.com/trumbitta/zip-war-airganon/blob/master/CONTRIBUTING.md)!  
+Nel frattempo, il prode [@simoneloru](https://github.com/simoneloru) ha inglobato il sito in [un'app per Android](https://play.google.com/store/apps/details?id=com.simoneloru.zwa_zipwarairganon).
 
 ## Credits ##
 
