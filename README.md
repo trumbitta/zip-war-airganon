@@ -8,7 +8,7 @@ Provalo online: http://trumbitta.github.com/zip-war-airganon/
 ## Contributi
 
 Contribuire è facile, [leggi come fare](https://github.com/trumbitta/zip-war-airganon/blob/master/CONTRIBUTING.md)!  
-Nel frattempo, il prode [@simoneloru](https://github.com/simoneloru) ha inglobato il sito in [un'app per Android](https://play.google.com/store/apps/details?id=com.simoneloru.zwa_zipwarairganon).
+Nel frattempo, il prode [@simoneloru](https://github.com/simoneloru) ha inglobato il sito in [un' app per Android](https://play.google.com/store/apps/details?id=com.simoneloru.zwa_zipwarairganon).
 
 ## Credits ##
 
