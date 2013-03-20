@@ -34,16 +34,14 @@ Basta aggiungere un file JSON sotto `contents` ed eventualmente modificare uno d
 
 ### Formato dei passi, commentato
 
- * `titolo`: è il titolo del passo
- * `nota`: è la nota aggiuntiva sotto il titolo
+`titolo`: è il titolo del passo  
+`nota`: è la nota aggiuntiva sotto il titolo  
+`opzione1`: è il primo bottone  
+`opzione2`: se decidi di metterla, è il secondo bottone che compare a fianco del primo bottone  
+`opzione3`: se decidi di metterla, è il terzo bottone che è molto più piccolo e compare al di sotto dei primi due
 
- * `opzione1`: è il primo bottone
- * `opzione2`: se decidi di metterla, è il secondo bottone che compare a fianco del primo bottone
- * `opzione3`: se decidi di metterla, è il terzo bottone che è molto più piccolo e compare al di sotto dei primi due
+#### Per ciascuna opzione
 
- Per ciascuna opzione:  
- * `questa-opzione`: è il testo che compare all'interno del bottone
- * `ti-porta-a`: è costituita da uno `/` seguito dal nome del passo a cui il bottone porta.  
-Es: `/attiva-cross-checking` porta al passo descritto in `attiva-cross-checking.json`
- * `icona`: se decidi di metterla, è il nome senza `icon-` di una icona presa da [Font Awesome](http://fortawesome.github.com/Font-Awesome/)  
-Es: l'icona `icon-spinner` va indicata con `spinner`
+`questa-opzione`: è il testo che compare all'interno del bottone  
+`ti-porta-a`: è costituita da uno `/` seguito dal nome del passo a cui il bottone porta. (Es: `/attiva-cross-checking` porta al passo descritto in `attiva-cross-checking.json`)  
+`icona`: se decidi di metterla, è il nome senza `icon-` di una icona presa da [Font Awesome](http://fortawesome.github.com/Font-Awesome/) (Es: l'icona `icon-spinner` va indicata con `spinner`)
