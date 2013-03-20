@@ -7,7 +7,7 @@ Online: http://trumbitta.github.com/zip-war-airganon/
 
 ## Contributi di Terze Parti
 
-@simoneloru ha inglobato il sito in [un'app per Android](https://play.google.com/store/apps/details?id=com.simoneloru.zwa_zipwarairganon)!
+Il prode [@simoneloru](https://github.com/simoneloru) ha inglobato il sito in [un'app per Android](https://play.google.com/store/apps/details?id=com.simoneloru.zwa_zipwarairganon)!
 
 ## Credits ##
 
