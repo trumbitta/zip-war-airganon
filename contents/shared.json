@@ -1,0 +1,9 @@
+{
+	"site-title": "SVG4 &trade; betaV OUT &amp; CROUND SOURCING",
+  "header-title": "Zip War Airganon",
+	"footer-text": "Built with <a href=\"http://laktek.github.com/punch\">Punch</a>",
+  "navbar": [
+      { "label": "Home", "href": "/" },
+      { "label": "About", "href": "/about" }
+  ]
+}

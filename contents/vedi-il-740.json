@@ -1,0 +1,11 @@
+{
+  "titolo": "740",
+  "nota": "Vedere il loro 740 all'inizio, il 740 di oggi, decurtata, con questo algoritmo che lo fa automaticamente, uno stipendio di 1200 euro al mese, quello che rimane verrà restituito.",
+  "opzione1": [
+      {
+        "questa-opzione": "Vedi il 740 decurtata",
+        "ti-porta-a": "/vedi-il-740-decurtata",
+        "icona": "play"
+      }
+  ]
+}

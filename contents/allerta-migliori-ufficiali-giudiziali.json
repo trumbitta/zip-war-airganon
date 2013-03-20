@@ -1,0 +1,17 @@
+{
+  "titolo": "I migliori ufficiali giudiziali...",
+  "nota": "...e migliori forze di polizia. È il momento giusto?",
+  "opzione1": [
+      {
+        "questa-opzione": "Sì",
+        "ti-porta-a": "/posto-giusto"
+      }
+  ],
+  "opzione2": [
+      {
+        "questa-opzione": "No",
+        "ti-porta-a": "/allerta-migliori-ufficiali-giudiziali",
+        "icona": "refresh"
+      }
+  ]
+}

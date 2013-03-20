@@ -1,0 +1,11 @@
+{
+  "titolo": "Attivazione automatica",
+  "nota": "Decurtamento SVG4",
+  "opzione1": [
+      {
+        "questa-opzione": "Chiama i migliori tecnici",
+        "ti-porta-a": "/chiama-migliori-tecnici",
+        "icona": "bell-alt"
+      }
+  ]
+}

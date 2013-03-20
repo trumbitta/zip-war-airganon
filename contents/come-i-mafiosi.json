@@ -1,0 +1,22 @@
+{
+  "titolo": "Check mafiosi",
+  "nota": "È come i mafiosi?",
+  "opzione1": [
+      {
+        "questa-opzione": "Leggermente peggio",
+        "ti-porta-a": "/attivazione-decurtamento-svg4"
+      }
+  ],
+  "opzione2": [
+      {
+        "questa-opzione": "Sì",
+        "ti-porta-a": "/attivazione-procedura-sequestro-capitali"
+      }
+  ],
+  "opzione3": [
+      {
+        "questa-opzione": "No",
+        "ti-porta-a": "/figuriamoci"
+      }
+  ]
+}

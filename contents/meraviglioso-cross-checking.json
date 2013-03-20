@@ -1,0 +1,11 @@
+{
+  "titolo": "Meraviglioso Cross Checking",
+  "nota": "Per mettere in relazione tutti i dati anagrafici dei documenti dei passaporti.",
+  "opzione1": [
+      {
+        "questa-opzione": "Ritiro dei passaporti",
+        "ti-porta-a": "/ritiro-passaporti",
+        "icona": "credit-card"
+      }
+  ]
+}

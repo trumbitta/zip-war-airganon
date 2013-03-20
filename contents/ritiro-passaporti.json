@@ -1,0 +1,11 @@
+{
+  "titolo": "Attivazione crowd-out-sourcing",
+  "nota": "In aggiunta all'out-sourcing normale.",
+  "opzione1": [
+      {
+        "questa-opzione": "Valutazione immediata dei beni",
+        "ti-porta-a": "/valutazione-immediata",
+        "icona": "search"
+      }
+  ]
+}

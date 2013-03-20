@@ -1,0 +1,11 @@
+{
+  "titolo": "Questa gente dice",
+  "nota": "Adesso vado via do le dimissioni e basta!",
+  "opzione1": [
+      {
+        "questa-opzione": "Attiva CROSS CHECKING",
+        "ti-porta-a": "/attiva-cross-checking",
+        "icona": "play"
+      }
+  ]
+}

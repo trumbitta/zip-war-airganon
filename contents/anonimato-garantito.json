@@ -1,0 +1,16 @@
+{
+  "titolo": "Il nostro anonimato...",
+  "nota": "...è garantito?",
+  "opzione1": [
+      {
+        "questa-opzione": "Sì",
+        "ti-porta-a": "/meraviglioso-cross-checking"
+      }
+  ],
+  "opzione2": [
+      {
+        "questa-opzione": "No",
+        "ti-porta-a": "/occhiali-e-tuta"
+      }
+  ]
+}

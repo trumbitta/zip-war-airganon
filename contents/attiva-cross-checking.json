@@ -1,0 +1,11 @@
+{
+  "titolo": "Attivazione",
+  "nota": "Abbiamo un meraviglioso cross checking per intensificare e intersecare tutti i dati mondiali delle banche e delle dichiarazioni fiscali.",
+  "opzione1": [
+      {
+        "questa-opzione": "Vedi il 740",
+        "ti-porta-a": "/vedi-il-740",
+        "icona": "play"
+      }
+  ]
+}

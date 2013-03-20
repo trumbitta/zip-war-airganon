@@ -1,0 +1,11 @@
+{
+  "titolo": "I migliori tecnici",
+  "nota": "Inizializzare subito Zip War Airganon",
+  "opzione1": [
+      {
+        "questa-opzione": "Allerta migliori ufficiali giudiziali",
+        "ti-porta-a": "/allerta-migliori-ufficiali-giudiziali",
+        "icona": "legal"
+      }
+  ]
+}

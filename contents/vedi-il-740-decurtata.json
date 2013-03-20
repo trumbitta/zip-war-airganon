@@ -1,0 +1,22 @@
+{
+  "titolo": "740 decurtata",
+  "nota": "Ha guadagnato più di 1200€ al mese?",
+  "opzione1": [
+      {
+        "questa-opzione": "Sì",
+        "ti-porta-a": "/come-i-mafiosi"
+      }
+  ],
+  "opzione2": [
+      {
+        "questa-opzione": "No",
+        "ti-porta-a": "/figuriamoci"
+      }
+  ],
+  "opzione3": [
+      {
+        "questa-opzione": "Sì, ma già da prima",
+        "ti-porta-a": "/tasti-a-casaccio"
+      }
+  ]
+}

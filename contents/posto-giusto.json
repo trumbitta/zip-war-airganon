@@ -1,0 +1,17 @@
+{
+  "titolo": "È il posto giusto?",
+  "nota": "Eh? Eh?",
+  "opzione1": [
+      {
+        "questa-opzione": "Sì",
+        "ti-porta-a": "/anonimato-garantito"
+      }
+  ],
+  "opzione2": [
+      {
+        "questa-opzione": "No",
+        "ti-porta-a": "/posto-giusto",
+        "icona": "refresh"
+      }
+  ]
+}
