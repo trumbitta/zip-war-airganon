@@ -1,0 +1,11 @@
+{
+  "titolo": "Adobe Suite CS7",
+  "nota": "Modificare i 740 iniziali e finali.",
+  "opzione1": [
+      {
+        "questa-opzione": "E ora vedi il 740",
+        "ti-porta-a": "/vedi-il-740",
+        "icona": "money"
+      }
+  ]
+}

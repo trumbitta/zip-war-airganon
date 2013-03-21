@@ -1,0 +1,11 @@
+{
+  "titolo": "Dopo un po'",
+  "nota": "Fare finta di andare in bagno e invece chiamare i migliori grafici.",
+  "opzione1": [
+      {
+        "questa-opzione": "Inizializza Adobe Suite CS7",
+        "ti-porta-a": "/adobe-suite-cs7",
+        "icona": "picture"
+      }
+  ]
+}

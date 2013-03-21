@@ -1,0 +1,11 @@
+{
+  "titolo": "Figuriamoci",
+  "nota": "Premere velocemente dei tasti a casaccio sulla tastiera come i programmatori dei film.",
+  "opzione1": [
+      {
+        "questa-opzione": "Senza guardare la tastiera",
+        "ti-porta-a": "/tasti-a-casaccio",
+        "icona": "desktop"
+      }
+  ]
+}
