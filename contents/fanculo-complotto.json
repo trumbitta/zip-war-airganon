@@ -1,0 +1,11 @@
+{
+  "titolo": "UFFA!",
+  "nota": "ANDATE TUTTI AFFANCULO!!!11! È UN COMPLOTTO DELLA ZIP UOR ERGEINON and sons!",
+  "opzione1": [
+      {
+        "questa-opzione": "Attiva sequestro capitali",
+        "ti-porta-a": "/attivazione-procedura-sequestro-capitali",
+        "icona": "money"
+      }
+  ]
+}

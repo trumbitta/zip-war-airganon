@@ -1,0 +1,11 @@
+{
+  "titolo": "Attivazione",
+  "nota": "Procedura sequestro capitali",
+  "opzione1": [
+      {
+        "questa-opzione": "Restituire i beni",
+        "ti-porta-a": "/restituire-beni-patrimoniali",
+        "icona": "money"
+      }
+  ]
+}

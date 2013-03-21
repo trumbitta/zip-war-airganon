@@ -1,0 +1,11 @@
+{
+  "titolo": "Cambio d'abito tattico",
+  "nota": "Indossare occhiali da sci e tuta da ritardato.",
+  "opzione1": [
+      {
+        "questa-opzione": "Attiva meraviglioso CROSS CHECKING",
+        "ti-porta-a": "/meraviglioso-cross-checking",
+        "icona": "heart"
+      }
+  ]
+}
