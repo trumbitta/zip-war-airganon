@@ -1,0 +1,11 @@
+{
+  "titolo": "Non hanno più i passaporti",
+  "nota": "Oops!",
+  "opzione1": [
+      {
+        "questa-opzione": "Rifategli i passaporti!",
+        "ti-porta-a": "/rifategli-i-passaporti",
+        "icona": "credit-card"
+      }
+  ]
+}

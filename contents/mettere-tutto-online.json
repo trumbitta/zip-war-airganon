@@ -1,0 +1,11 @@
+{
+  "titolo": "Mettere tutto online",
+  "nota": "Per aumentare accessi al blog.",
+  "opzione1": [
+      {
+        "questa-opzione": "Consentire uscita politici",
+        "ti-porta-a": "/consentire-uscita-politici",
+        "icona": "unlock"
+      }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "titolo": "Situazione",
+  "nota": "Abbiamo sotto controllo la situazione, abbiamo il capitale?",
+  "opzione1": [
+      {
+        "questa-opzione": "Sì",
+        "ti-porta-a": "/restituire-beni-patrimoniali"
+      }
+  ],
+  "opzione2": [
+      {
+        "questa-opzione": "No",
+        "ti-porta-a": "/fanculo-complotto"
+      }
+  ]
+}

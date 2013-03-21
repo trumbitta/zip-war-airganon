@@ -1,0 +1,11 @@
+{
+  "titolo": "Rifacimento passaporti",
+  "nota": "...",
+  "opzione1": [
+      {
+        "questa-opzione": "Riproviamo a farli uscire",
+        "ti-porta-a": "/riproviamo-a-farli-uscire",
+        "icona": "unlock"
+      }
+  ]
+}

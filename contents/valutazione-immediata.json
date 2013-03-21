@@ -1,0 +1,16 @@
+{
+  "titolo": "Valutazione immediata",
+  "nota": "Dei beni patrimoniali sia in Italia che all'estero dove sono gli scudi fiscali, ci sono nomi, cognomi, c'è tutto?",
+  "opzione1": [
+      {
+        "questa-opzione": "Sì",
+        "ti-porta-a": "/situazione-sotto-controllo"
+      }
+  ],
+  "opzione2": [
+      {
+        "questa-opzione": "No",
+        "ti-porta-a": "/fanculo-complotto"
+      }
+  ]
+}

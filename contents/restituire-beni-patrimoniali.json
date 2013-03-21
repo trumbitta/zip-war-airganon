@@ -1,0 +1,11 @@
+{
+  "titolo": "Restituzione",
+  "nota": "Restituire i beni patrimoniali al popolo italiano.",
+  "opzione1": [
+      {
+        "questa-opzione": "Mettere tutto online",
+        "ti-porta-a": "/mettere-tutto-online",
+        "icona": "facebook-sign"
+      }
+  ]
+}

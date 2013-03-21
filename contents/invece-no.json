@@ -1,0 +1,11 @@
+{
+  "titolo": "Invece no!",
+  "nota": "!1111!!!!1",
+  "opzione1": [
+      {
+        "questa-opzione": "Invece sì e te lo dimostreremo",
+        "ti-porta-a": "/last",
+        "icona": "lightbulb"
+      }
+  ]
+}

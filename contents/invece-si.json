@@ -1,0 +1,11 @@
+{
+  "titolo": "Invece sì!",
+  "nota": "!11!1",
+  "opzione1": [
+      {
+        "questa-opzione": "Invece no!",
+        "ti-porta-a": "/invece-no",
+        "icona": "thumbs-down"
+      }
+  ]
+}

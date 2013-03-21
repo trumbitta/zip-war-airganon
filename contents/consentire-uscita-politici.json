@@ -1,0 +1,11 @@
+{
+  "titolo": "Uscita dei politici",
+  "nota": "Consentire uscita dei politici, è doveroso mandarli via da questo paese, che non ritornino più.",
+  "opzione1": [
+      {
+        "questa-opzione": "Non hanno più i passaporti",
+        "ti-porta-a": "/non-hanno-i-passaporti",
+        "icona": "credit-card"
+      }
+  ]
+}

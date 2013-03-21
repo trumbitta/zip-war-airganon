@@ -1,0 +1,11 @@
+{
+  "titolo": "Riproviamo a farli uscire",
+  "nota": "Ora che sono poveri non vogliono più uscire e anzi vogliono combattere contro i cittadini che prendono 12000€ al mese in Parlamento.",
+  "opzione1": [
+      {
+        "questa-opzione": "Non è vero",
+        "ti-porta-a": "/non-e-vero",
+        "icona": "thumbs-down"
+      }
+  ]
+}

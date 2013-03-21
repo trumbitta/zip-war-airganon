@@ -1,0 +1,11 @@
+{
+  "titolo": "Invece sì!",
+  "nota": "E te lo dimostreremo perché anche noi siamo entranti in possesso del...",
+  "opzione1": [
+      {
+        "questa-opzione": "Attiva CROSS CHECKING",
+        "ti-porta-a": "/attiva-cross-checking",
+        "icona": "spinner"
+      }
+  ]
+}
