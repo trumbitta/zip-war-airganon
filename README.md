@@ -13,4 +13,4 @@ Nel frattempo, il prode [@simoneloru](https://github.com/simoneloru) ha inglobat
 ## Credits ##
 
 * http://www.francescolanza.net/grillo-e-il-software-misterioso-antani
-* http://i.imgur.com/xDanWtZ.jpg
+* Adriano D'Esposito per il diagramma di flusso: http://i.imgur.com/xDanWtZ.jpg
