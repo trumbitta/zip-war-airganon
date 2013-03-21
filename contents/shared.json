@@ -5,5 +5,6 @@
   "navbar": [
       { "label": "Home", "href": "/" },
       { "label": "About", "href": "/about" }
-  ]
+  ],
+  "webapp": "/zip-war-airganon"
 }
