@@ -15,8 +15,10 @@ Ecco come fare se vuoi far girare sulla tua macchina lo zip-war-airganon (per [c
   * individua l'ultima configurazione: `"webapp": "/zip-war-airganon"`
   * modificala in modo che diventi: `"webapp": ""`
   * se dovessi voler [contribuire](https://github.com/trumbitta/zip-war-airganon/blob/master/CONTRIBUTING.md), prima di fare la tua pull request ricordati di riportare questa configurazione al valore originale
-* entra nella directory dello zip-war-airganon e lancia `punch s`
-* punta il browser a http://localhost:9009/
+* entra nella directory dello zip-war-airganon e lancia:  
+  `$> punch s`
+* punta il browser a:  
+  [http://localhost:9009/](http://localhost:9009/)
 
 ## Contributi
 
